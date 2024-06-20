@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Computer Science @Barnard, Columbia
+🔭 I’m currently working on projects in Swift, JavaScript, CUDA, and more
+⚡ A fun fact about me is I once got lost in Venice at 10 but clueless in Italian!
+💬 Ask me about anything cuddly about Xiaobai & Lambor 🐈
+📫 How to reach me: cathzzr2@gmail.com
+😄 Pronouns: She/Her
+
+
 <!--
 **cathzzr2/cathzzr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
