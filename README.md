@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Computer Science @Barnard, Columbia
+- 🌱 I’m currently learning Computer Science @Barnard
 - 🔭 I’m currently working on projects in Swift, JavaScript, CUDA, and more
 - ⚡ A fun fact about me is I once got lost in Venice at 10 but clueless in Italian!
 - 💬 Ask me about anything cuddly about Xiaobai & Lambor 🐈
