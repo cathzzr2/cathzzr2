@@ -9,8 +9,15 @@
 
 **📫 Reach out to me @**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cathzzr2@gmail.com)
-[![GitHub](https://github.com/user-attachments/assets/3b89fa5b-acdf-4f03-8667-2cd8968f4685)](https://github.com/cathzzr2)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cathzzr2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cathzzr2)
-
+<a href="mailto:cathzzr2@gmail.com">
+  <img src="https://github.com/user-attachments/assets/0a8bc1b9-7e0f-4ffa-a84d-63786a707f0f" alt="Email" width="50" height="50"/>
+</a>
+<a href="https://github.com/cathzzr2">
+  <img src="https://github.com/user-attachments/assets/3b89fa5b-acdf-4f03-8667-2cd8968f4685" alt="GitHub" width="50" height="50"/>
+</a>
+<a href="https://www.instagram.com/cathzzr2">
+  <img src="https://github.com/user-attachments/assets/51f9cd70-4518-4393-94a1-686dd8016d88" alt="Instagram" width="50" height="50"/>
+</a>
+<a href="https://linkedin.com/in/cathzzr2">
+  <img src="https://github.com/user-attachments/assets/48991692-a528-4510-9aec-b36e5907cfe6" alt="LinkedIn" width="50" height="50"/>
+</a>
