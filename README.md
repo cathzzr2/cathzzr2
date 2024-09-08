@@ -10,7 +10,7 @@
 **📫 Reach out to me @**
 
 <a href="mailto:cathzzr2@gmail.com">
-  <img src="https://github.com/user-attachments/assets/0a8bc1b9-7e0f-4ffa-a84d-63786a707f0f" alt="Email" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/1234273e-22dd-4554-b4ba-ea12f47bcd9a" alt="Email" width="50" height="50"/>
 </a>
 <a href="https://github.com/cathzzr2">
   <img src="https://github.com/user-attachments/assets/3b89fa5b-acdf-4f03-8667-2cd8968f4685" alt="GitHub" width="50" height="50"/>
