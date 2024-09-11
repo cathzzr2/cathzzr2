@@ -1,7 +1,7 @@
 ## Hi there, I'm Catherine Zhao 👋
 
 - 🌱 I’m currently learning Computer Science @Barnard
-- 🔭 I’m currently working on projects in Swift, CUDA, and more
+- 🔭 I’m currently working on projects in Swift, CUDA, Go, and more
 - ⚡ A fun fact about me is I once got lost in Venice at 10 but clueless in Italian!
 - 💬 Ask me about anything cuddly about Xiaobai & Lambor 🐈
 - 😄 Pronouns: She/Her
