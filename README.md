@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Computer Science @ Barnard
 - ⚡ A fun fact about me is I once got lost in Venice at 10 but clueless in Italian!
-- 💬 Ask me anything cuddly about Xiaobai & Lambor 🐈
+- 💬 Ask me anything cuddly about Shelbye & Lambor 🐈
 - 😄 Pronouns: She/Her
   
 ### 📫 Reach out to me @
